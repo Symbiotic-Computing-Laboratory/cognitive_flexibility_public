@@ -1,5 +1,13 @@
 # Deep Recurrent Q-Learning Model of Cognitive Flexibility
 
+## Release
+
+__Release version__: 1.0.0
+
+Notes:
+- Repository skeleton
+
+
 ## Paper Reference
 
 Fagg, A. H., Diges, M., Zdrale Rajala, A., Habibi, G., Suminski,
