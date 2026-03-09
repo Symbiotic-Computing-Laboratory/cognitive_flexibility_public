@@ -5,7 +5,7 @@
 __Release version__: 1.0.0
 
 Notes:
-- Repository skeleton
+- Repository skeleton.  Content coming soon.
 
 
 ## Paper Reference
