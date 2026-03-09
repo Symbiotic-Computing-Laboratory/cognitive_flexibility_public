@@ -1,11 +1,15 @@
 # Deep Recurrent Q-Learning Model of Cognitive Flexibility
 
-## Release
-
-__Release version__: 1.0.0
+## Release Details: Version 1.0.0
 
 Notes:
-- Repository skeleton.  Content coming soon.
+- Code release on Zenodo: 
+   - [All Releases: https://doi.org/10.5281/zenodo.18926284](https://doi.org/10.5281/zenodo.18926284)
+   - [Current Release: https://doi.org/10.5281/zenodo.18926285](https://doi.org/10.5281/zenodo.18926285)
+      - Repository skeleton.  Content coming soon.
+
+- Data release on Zenodo:
+   - [Current Release:](foo)
 
 
 ## Paper Reference
