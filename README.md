@@ -30,4 +30,8 @@ model data, analysis, and figures for the paper.
 
 Python environment: [requirements.txt](requirements.txt)
 
+## Contact
+
+Andrew H. Fagg: andrewhfagg@gmail.com
+
 ___
