@@ -8,9 +8,9 @@ Notes:
    - [Current Release: https://doi.org/10.5281/zenodo.18926285](https://doi.org/10.5281/zenodo.18926285)
       - Repository skeleton.  Content coming soon.
 
-- Data release on Zenodo:
-   - [Current Release:](foo)
-
+- Data release:
+   - Model data: [https://doi.org/10.5281/zenodo.18932109](https://doi.org/10.5281/zenodo.18932109)
+   - NHP data: available on request
 
 ## Paper Reference
 
@@ -23,19 +23,18 @@ Stochastic Task Switching"
 This repository contains the python code necessary to reproduce the
 model data, analysis, and figures for the paper.
 
-## Data
-
-1. Model data: available at Zenodo (TODO)
-
-2. NHP data: available on request
-
 
 ## Requirements
 
 Python environment: [requirements.txt](requirements.txt)
 
-## Contact
+## Authors
 
-Andrew H. Fagg: andrewhfagg@gmail.com
+- Andrew H. Fagg: andrewhfagg@gmail.com
+- Martin Diges
+- Abigail Zdrale Rajala
+- Golnaz Habibi
+- Aaron J. Suminski
+- Luis Populin
 
 ___
